@@ -1,0 +1,162 @@
+[
+  {
+    "id": "36d12cea-b3e4-5c60-8156-29d395dcf98a",
+    "titulo": "El padrino",
+    "director": "Francis Ford Coppola",
+    "año": 1972,
+    "genero": "Drama",
+    "puntuacion": 9.2
+  },
+  {
+    "id": "02ca2a39-99cc-5103-970a-ec9ed27cd9d6",
+    "titulo": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "año": 1994,
+    "genero": "Crimen",
+    "puntuacion": 8.9
+  },
+  {
+    "id": "d8f15d47-c79a-5f93-8049-0297122573f4",
+    "titulo": "El Señor de los Anillos: El retorno del Rey",
+    "director": "Peter Jackson",
+    "año": 2003,
+    "genero": "Aventura",
+    "puntuacion": 9.0
+  },
+  {
+    "id": "4b30e9cc-1b19-5e1a-8eb4-433e9b896d29",
+    "titulo": "Forrest Gump",
+    "director": "Robert Zemeckis",
+    "año": 1994,
+    "genero": "Drama",
+    "puntuacion": 8.8
+  },
+  {
+    "id": "dde58122-35e8-5d0a-850f-1a7686f99651",
+    "titulo": "Interestelar",
+    "director": "Christopher Nolan",
+    "año": 2014,
+    "genero": "Ciencia ficción",
+    "puntuacion": 8.6
+  },
+  {
+    "id": "674346cb-2818-5499-b225-65eb29c6259b",
+    "titulo": "El club de la pelea",
+    "director": "David Fincher",
+    "año": 1999,
+    "genero": "Drama",
+    "puntuacion": 8.8
+  },
+  {
+    "id": "ca65ea56-c006-5868-9022-6f2486410925",
+    "titulo": "El silencio de los corderos",
+    "director": "Jonathan Demme",
+    "año": 1991,
+    "genero": "Suspenso",
+    "puntuacion": 8.6
+  },
+  {
+    "id": "6cf8c309-0d42-5011-b17b-ed6a6a5a7cd9",
+    "titulo": "La lista de Schindler",
+    "director": "Steven Spielberg",
+    "año": 1993,
+    "genero": "Drama",
+    "puntuacion": 8.9
+  },
+  {
+    "id": "eadd46e3-f0c5-5257-bfae-51399be15c44",
+    "titulo": "Matrix",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "año": 1999,
+    "genero": "Ciencia ficción",
+    "puntuacion": 8.7
+  },
+  {
+    "id": "5144d1e7-0227-5ef2-bb44-ae9c0e7d0403",
+    "titulo": "Ciudad de Dios",
+    "director": "Fernando Meirelles, Kátia Lund",
+    "año": 2002,
+    "genero": "Drama",
+    "puntuacion": 8.6
+  },
+  {
+    "id": "f5824307-6437-5e19-8dd4-0d163410c0be",
+    "titulo": "El resplandor",
+    "director": "Stanley Kubrick",
+    "año": 1980,
+    "genero": "Terror",
+    "puntuacion": 8.4
+  },
+  {
+    "id": "1ac04d42-4d80-5763-a872-15454c2d4d08",
+    "titulo": "Tiempos violentos",
+    "director": "Quentin Tarantino",
+    "año": 1994,
+    "genero": "Crimen",
+    "puntuacion": 8.9
+  },
+  {
+    "id": "180ad2da-47a6-5d7d-a582-5f6f1a208715",
+    "titulo": "Salvar al soldado Ryan",
+    "director": "Steven Spielberg",
+    "año": 1998,
+    "genero": "Drama",
+    "puntuacion": 8.6
+  },
+  {
+    "id": "b7733bec-5ad4-5ee2-9569-9ab570a43453",
+    "titulo": "La trilogía de El Señor de los Anillos",
+    "director": "Peter Jackson",
+    "año": 2001,
+    "genero": "Aventura",
+    "puntuacion": 8.9
+  },
+  {
+    "id": "4c2ac860-c05b-5070-bc7b-4cca88a914ef",
+    "titulo": "La naranja mecánica",
+    "director": "Stanley Kubrick",
+    "año": 1971,
+    "genero": "Ciencia ficción",
+    "puntuacion": 8.5
+  },
+  {
+    "id": "8c51680b-6c98-500c-910f-1c7eb195bf84",
+    "titulo": "El caballero oscuro",
+    "director": "Christopher Nolan",
+    "año": 2008,
+    "genero": "Acción",
+    "puntuacion": 9.0
+  },
+  {
+    "id": "232b603b-1d08-587d-8bd3-756a9e1acda0",
+    "titulo": "Seven: Pecados capitales",
+    "director": "David Fincher",
+    "año": 1995,
+    "genero": "Suspenso",
+    "puntuacion": 8.6
+  },
+  {
+    "id": "7b46d8e3-cb3e-5a4d-b8b8-8380d39f92a9",
+    "titulo": "El club de la pelea",
+    "director": "David Fincher",
+    "año": 1999,
+    "genero": "Drama",
+    "puntuacion": 8.8
+  },
+  {
+    "id": "9d8a7d60-4a5c-5c80-a079-54b9809e9dff",
+    "titulo": "El gran Lebowski",
+    "director": "Joel Coen, Ethan Coen",
+    "año": 1998,
+    "genero": "Comedia",
+    "puntuacion": 8.1
+  },
+  {
+    "id": "fe91c371-907e-59c8-9840-c4bd06b2f148",
+    "titulo": "El rey león",
+    "director": "Roger Allers, Rob Minkoff",
+    "año": 1994,
+    "genero": "Animación",
+    "puntuacion": 8.5
+  }
+]

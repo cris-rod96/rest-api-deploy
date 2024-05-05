@@ -1,0 +1,36 @@
+### RECUPERAR TODAS LAS PELÍCULAS
+GET http://localhost:1234/movies
+
+
+### RECUPERAR UNA PELICULA POR ID
+GET http://localhost:1234/movies/0e58e5f2-07b4-58ab-a364-a802904c82ad
+
+### RECUPERAR UNA PELICULA POR UN GÉNERO
+GET http://localhost:1234/movies?genero=Terror
+
+
+
+
+### CREAR UNA PELÍCULA
+POST http://localhost:1234/movies
+Content-Type: application/json
+
+{
+ "titulo": "La vida es bellaaaa",
+ "director": "Roberto Benigni",
+ "año": 1997,
+  "genero": "Comedia",
+ "puntuacion": 8.6
+
+}
+
+
+### ACTUALIZAR UNA PELICULA
+### NOTA: LA ID ASÍ SE LA PASES, LA IGNORA, YA QUE NO SE MODIFICA POR LO GENERAL
+PATCH http://localhost:1234/movies/36d12cea-b3e4-5c60-8156-29d395dcf98a
+Content-Type: application/json
+
+{
+    "id": 123,
+    "año": 2022
+}
